@@ -1,0 +1,22 @@
+class student
+{
+	int y;
+ 	student()
+	 {
+	  y=12;
+	 }
+	public void getmyname()
+	{
+	 System.out.println("vivetha");
+	}
+}
+class demodata
+{
+	public static void main(String args[])
+	 {
+	  sample.obj=new sample();
+	 }
+}
+	
+
+	 
